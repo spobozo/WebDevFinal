@@ -10,7 +10,7 @@ const Feeter = () => {
                 <li>client/ManageEmail.jsx - made the prototype on adobeXD</li>
             </ul>
             <p>Adobe XD prototype: <a href="https://xd.adobe.com/view/f82d2082-87ed-4eeb-b412-29f4483fccf3-ad7e/?hints=off">https://xd.adobe.com/view/</a></p>
-            <p>Github: <a href="https://github.com/spobozo/BSF-starter">https://github.com/spobozo/BSF-starter</a></p>
+            <p>Github: <a href="https://github.com/spobozo/WebDevFinal">https://github.com/spobozo/WebDevFinal</a></p>
         </div>
     )
 }
